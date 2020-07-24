@@ -1,4 +1,4 @@
-# Alessandro Teiji 🇧🇷
+# Alessandro Teiji M. Watanabe 🇧🇷 🏳️‍🌈 🦄
 
 ## Brazilian Javascript/Typescript Fullstack Developer (React & Node.JS) 
 
@@ -11,7 +11,8 @@ Some facts about me ↓
 - I really really love markdown ❤️
 - Already used Linux, Windows and MacOS to programming, and at my opinion, Linux and MacOS are the best to programming (but Windows it's cool)
 - My favorites Linux distros are Pop!_OS and Linux Mint 💚
-- I really really like KDE Plasma and Cinnamon, but GNOME has been winning my heart 
+- I really really like KDE Plasma and Cinnamon, but GNOME has been winning my heart
+- Unicorns are amazing fictional creatures
 
 ### My langs
 - Javascript **(main lang)**
@@ -24,12 +25,13 @@ Some facts about me ↓
 - Java (Technical Course) 
 - C (Workshop)
 
-### Langs (or frameworks) that I've tried do some things
+### Langs (or frameworks) I've tried do some things that I don't think about trying again
 - Rust
 - Vue.JS 
 
 ### Next langs (or frameworks) to try learn
-- Golang
-- Python
 - Adonis JS
 - Nest JS
+
+### Next Objectives
+- Learn Python or Golang for professional applications (mainly Web APIs)
