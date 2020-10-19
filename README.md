@@ -15,13 +15,13 @@ Some facts about me ↓
 - Unicorns are amazing fictional creatures
 
 ### My langs
-- Javascript **(main lang)**
+- Javascript
 - Typescript
+- Python (Pygame, Tkinter, **Django** & Flask) 
 - PHP
 
 ### Other langs I've done some things
 - C# (.NET) 
-- Python (Pygame, Tkinter & Flask) 
 - Java (Technical Course) 
 - C (Workshop)
 
@@ -34,4 +34,4 @@ Some facts about me ↓
 - Nest JS
 
 ### Next Objectives
-- Learn Python or Golang for professional applications (mainly Web APIs)
+- Learn Python for professional applications (mainly Web APIs)
