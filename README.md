@@ -25,13 +25,9 @@ Some facts about me ↓
 - Java (Technical Course) 
 - C (Workshop)
 
-### Langs (or frameworks) I've tried do some things that I don't think about trying again
-- Rust
-- Vue.JS 
-
 ### Next langs (or frameworks) to try learn
 - Adonis JS
 - Nest JS
 
 ### Next Objectives
-- Learn Python for professional applications (mainly Web APIs)
+- Learn Python and Golang for professional applications (mainly Web APIs)
