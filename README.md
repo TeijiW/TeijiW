@@ -1,6 +1,6 @@
-# Alessandro Teiji M. Watanabe 🇧🇷 🏳️‍🌈 🦄
+# Alessandro Teiji M. Watanabe 🇧🇷
 
-## Brazilian Javascript/Typescript Fullstack Developer (React & Node.JS) 
+## Brazilian Backend Developer (Node.JS, Python and Elixir) 
 
 Hi! I'm **Alessandro Teiji** =)
 
@@ -10,24 +10,23 @@ Some facts about me ↓
 - I work as Dev at [Devsquad](https://devsquad.com/) (Amazing company)
 - I really really love markdown ❤️
 - Already used Linux, Windows and MacOS to programming, and at my opinion, Linux and MacOS are the best to programming (but Windows it's cool)
-- My favorites Linux distros are Pop!_OS and Linux Mint 💚
+- My favorites Linux distros are _Pop!_OS_ and _Linux Mint_ 💚
 - I really really like KDE Plasma and Cinnamon, but GNOME has been winning my heart
 - Unicorns are amazing fictional creatures
 
 ### My langs
 - Javascript
 - Typescript
-- Python (Pygame, Tkinter, **Django** & Flask) 
-- PHP
+- Python (**Django**) 
+- Elixir (**Phoenix**)
 
 ### Other langs I've done some things
 - C# (.NET) 
 - Java (Technical Course) 
 - C (Workshop)
-
-### Next langs (or frameworks) to try learn
-- Adonis JS
-- Nest JS
+- Golang (Rest API)
+- Rust (Just to test)
 
 ### Next Objectives
-- Learn Python and Golang for professional applications (mainly Web APIs)
+- Improve my knowledge on Django and Phoenix
+- Create a Phoenix API project and put it here
