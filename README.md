@@ -4,19 +4,18 @@
 
 Hi! I'm **Alessandro Teiji** =)
 
-Some facts about me ↓
+Facts about me ↓
 
 - In 2019, I finished my high school at Instituto Federal de Mato Grosso, doing integrated with the IT technical course   
 - I really really love markdown ❤️
 - Already used Linux, Windows and MacOS to programming, and at my opinion, Linux and MacOS are the best to programming (but Windows it's cool)
 - My favorites Linux distros are _Pop!_OS_ and _Linux Mint_ 💚
-- I really really like KDE Plasma and Cinnamon, but GNOME has been winning my heart
-- Unicorns are amazing fictional creatures
+- I love KDE Plasma,GNOME and Cinnamon
 
 ### My langs
 - Javascript
 - Typescript 
-- Elixir (**Phoenix**)
+- Elixir (W/**Phoenix**)
 
 ### Other langs I've done some things
 - C# (.NET) 
