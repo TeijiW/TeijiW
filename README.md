@@ -1,6 +1,6 @@
 # Alessandro Teiji M. Watanabe 🇧🇷
 
-## Brazilian Backend Developer (Node.JS, Python and Elixir) 
+## Brazilian Backend Developer (Node.JS and Elixir) 
 
 Hi! I'm **Alessandro Teiji** =)
 
