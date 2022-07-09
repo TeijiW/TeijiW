@@ -1,29 +1,29 @@
-# Alessandro Teiji M. Watanabe 🇧🇷
+<h1 align="center">Hi 👋, I'm Alessandro Teiji</h1>
+<h3 align="center">A Brazilian Backend Developer with Elixir and Node.JS</h3>
 
-## Brazilian Backend Developer (Node.JS and Elixir) 
-
-Hi! I'm **Alessandro Teiji** =)
-
-Facts about me ↓
+## Some facts about me 👇
 
 - In 2019, I finished my high school at Instituto Federal de Mato Grosso, doing integrated with the IT technical course   
 - I really really love markdown ❤️
-- Already used Linux, Windows and MacOS to programming, and at my opinion, Linux and MacOS are the best to programming (but Windows it's cool)
+- I can do my development setup on any of the three most common operating systems (Linux, MacOs and Windows)
 - My favorites Linux distros are _Pop!_OS_ and _Linux Mint_ 💚
-- I love KDE Plasma,GNOME and Cinnamon
+- I love KDE Plasma, GNOME and Cinnamon
 
-### My langs
+## 🔭 Techs
 - Javascript
 - Typescript 
-- Elixir (W/**Phoenix**)
+- Elixir & Phoenix
 
 ### Other langs I've done some things
 - C# (.NET) 
 - Java (IFMT Technical Course) 
 - C (Microcontrollers Workshop)
-- Golang (Rest API with Gin)
-- Python (Rest API and Web App with Django)
-- Rust (Just to test)
+- Golang & Gin (Rest API)
+- Python & Django (Rest API)
+- Rust
 
-### Next Objectives
-- Improve my knowledge on Elixir, Phoenix and their ecosystem
+## 🌱 I'm learning
+- Kafka
+- Microservices
+- D.D.D
+- Ruby
