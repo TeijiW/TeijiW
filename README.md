@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alessandro Teiji</h1>
-<h3 align="center">A Brazilian Backend Developer with Elixir and Node.JS</h3>
+<h3 align="center">A Brazilian Backend Developer with Elixir and Javascript</h3>
 
 ## Some facts about me 👇
 
