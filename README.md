@@ -13,6 +13,8 @@
 - Javascript
 - Typescript 
 - Elixir & Phoenix
+- Ruby & Rails
+- Flutter
 
 ### Other langs I've done some things
 - C# (.NET) 
@@ -22,8 +24,3 @@
 - Python & Django (Rest API)
 - Rust
 
-## 🌱 I'm learning
-- Kafka
-- Microservices
-- D.D.D
-- Ruby
